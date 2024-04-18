@@ -1,8 +1,8 @@
 {
-  "name": "eslint-webpack",
+  "name": "neil-dropdown-menus",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "entry point": "dist/main.js",
   "scripts": {
     "start": "webpack --watch --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
